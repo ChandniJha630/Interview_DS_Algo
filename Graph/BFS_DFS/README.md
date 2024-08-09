@@ -76,7 +76,7 @@
 			</tr>
 			<tr>
         			<td>
-					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Graph/BFS_DFS/Count%20Unreachable%20Pairs%20of%20Nodes%20in%20an%20Undirected%20Graph.cpp"> Count Unreachable Pairs of Nodes in an Undirected Graph (Leetcode-2316)</a>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Graph/BFS_DFS/Count%20Unreachable%20Pairs%20of%20Nodes%20in%20an%20Undirected%20Graph.cpp"> ✅Count Unreachable Pairs of Nodes in an Undirected Graph (Leetcode-2316)</a>
 				</td>
 			</tr>
 			<tr>
@@ -86,7 +86,7 @@
 			</tr>
 			<tr>
         			<td>
-					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Graph/BFS_DFS/Similar%20String%20Groups.cpp"> Similar String Groups (Leetcode-839)</a>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Graph/BFS_DFS/Similar%20String%20Groups.cpp"> ✅Similar String Groups (Leetcode-839)</a>
 				</td>
 			</tr>
 			<tr>
