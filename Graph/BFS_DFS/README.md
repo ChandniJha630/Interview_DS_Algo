@@ -11,7 +11,7 @@
 		<tbody>
 			<tr>
         			<td>
-					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Graph/BFS_DFS/Numbers%20With%20Same%20Consecutive%20Differences.cpp">Numbers With Same Consecutive Differences (Leetcode-967)</a>
+					href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Graph/BFS_DFS/Numbers%20With%20Same%20Consecutive%20Differences.cpp"> Numbers With Same Consecutive Differences (Leetcode-967)</a>
 				</td>
 			</tr>
 			<tr>
@@ -21,7 +21,7 @@
 			</tr>
 			<tr>
         			<td>
-					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Graph/BFS_DFS/Making%20A%20Large%20Island.cpp"> Making A Large Island (Leetcode-827)</a>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Graph/BFS_DFS/Making%20A%20Large%20Island.cpp"> ✅ Making A Large Island (Leetcode-827)</a>
 				</td>
 			</tr>
 			<tr>
@@ -36,7 +36,7 @@
 			</tr>
 			<tr>
         			<td>
-					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Graph/BFS_DFS/Most%20Stones%20Removed%20with%20Same%20Row%20or%20Column.cpp"> Most Stones Removed with Same Row or Column (Leetcode-947)</a>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Graph/BFS_DFS/Most%20Stones%20Removed%20with%20Same%20Row%20or%20Column.cpp"> ✅ Most Stones Removed with Same Row or Column (Leetcode-947)</a>
 				</td>
 			</tr>
 			<tr>
@@ -51,7 +51,7 @@
 			</tr>
 			<tr>
         			<td>
-					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Graph/BFS_DFS/Number%20of%20Provinces.cpp"> Number of Provinces (Leetcode-547)</a>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Graph/BFS_DFS/Number%20of%20Provinces.cpp"> ✅ Number of Provinces (Leetcode-547)</a>
 				</td>
 			</tr>
 			<tr>
@@ -61,7 +61,7 @@
 			</tr>
 			<tr>
         			<td>
-					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Graph/BFS_DFS/Find%20Closest%20Node%20to%20Given%20Two%20Nodes.cpp"> Find Closest Node to Given Two Nodes (Leetcode-2359)</a>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Graph/BFS_DFS/Find%20Closest%20Node%20to%20Given%20Two%20Nodes.cpp"> ✅ Find Closest Node to Given Two Nodes (Leetcode-2359)</a>
 				</td>
 			</tr>
 			<tr>
@@ -91,12 +91,12 @@
 			</tr>
 			<tr>
         			<td>
-					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Graph/BFS_DFS/Detonate%20the%20Maximum%20Bombs.cpp"> Detonate the Maximum Bombs (Leetcode-2101)</a>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Graph/BFS_DFS/Detonate%20the%20Maximum%20Bombs.cpp"> ✅ Detonate the Maximum Bombs (Leetcode-2101)</a>
 				</td>
 			</tr>
 			<tr>
         			<td>
-					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Graph/BFS_DFS/Find%20All%20People%20With%20Secret.cpp"> Find All People With Secret (Leetcode-2092)</a>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Graph/BFS_DFS/Find%20All%20People%20With%20Secret.cpp"> ✅ Find All People With Secret (Leetcode-2092)</a>
 				</td>
 			</tr>
 		</tbody>
